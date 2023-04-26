@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohandhalpe&label=Profile%20views&color=0e75b6&style=flat" alt="rohandhalpe" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developement & Data Structures and Algorithms**
+- 🌱 I’m currently learning **Full Stack Web Developement and Data Structures & Algorithms**
 
 - 📫 How to reach me **rohandhalpe05@gmail.com**
 
