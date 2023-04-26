@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/RohanDhalpe/GYM_WEBSITE/blob/main/github-header-image%20(3).png)
-<h1 align="center">Hi 👋, I'm Rohan Dhalpe</h1>
+<h1 align="center">Hi 👋,  I'm Rohan Dhalpe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
