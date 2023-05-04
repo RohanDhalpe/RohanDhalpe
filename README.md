@@ -1,5 +1,5 @@
 
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkiyalearning.sg%2Fcoding%2F&psig=AOvVaw0DiZq1aG2Y5aYSu8VRVorT&ust=1683307873615000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKilgdGY3P4CFQAAAAAdAAAAABBB)
+![logo](https://github.com/RohanDhalpe/RohanDhalpe/blob/main/codegif.gif)
 <h1 align="center">Hi 👋,  I'm Rohan Dhalpe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
