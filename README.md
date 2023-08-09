@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohandhalpe05@gmail.com**
 
-- ⚡ Fun fact **😁**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
